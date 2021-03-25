@@ -1,0 +1,4 @@
+test1: 3/3
+100000.in: Accepted (Time: 30ms, Memory: 6268KB)
+1000.in: Accepted (Time: 0ms, Memory: 5876KB)
+10.in: Accepted (Time: 0ms, Memory: 5876KB)

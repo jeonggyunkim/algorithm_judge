@@ -1,0 +1,4 @@
+test6: 0/3
+100000.in: Wrong Answer
+1000.in: Wrong Answer
+10.in: Wrong Answer

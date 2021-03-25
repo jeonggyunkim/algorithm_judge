@@ -1,0 +1,4 @@
+test5: 2/3
+100000.in: Time Limit Exceeded
+1000.in: Accepted (Time: 0ms, Memory: 5876KB)
+10.in: Accepted (Time: 0ms, Memory: 5876KB)

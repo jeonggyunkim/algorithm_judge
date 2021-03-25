@@ -1,0 +1,7 @@
+test4: 0/3
+100000.in: Runtime Error
+Information: 
+1000.in: Runtime Error
+Information: 
+10.in: Runtime Error
+Information: 
